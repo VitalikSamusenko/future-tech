@@ -1,0 +1,19 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitalikSamusenko/future-tech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitalikSamusenko/future-tech/issues"
+  },
+  "homepage": "https://github.com/VitalikSamusenko/future-tech#readme"
+}
