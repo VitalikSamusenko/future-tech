@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VitalikSamusenko/future-tech/issues"
   },
-  "homepage": "https://github.com/VitalikSamusenko/future-tech#readme"
+  "homepage": "https://github.com/VitalikSamusenko/future-tech#readme",
+  "devDependencies": {
+    "sass": "^1.80.6"
+  }
 }
